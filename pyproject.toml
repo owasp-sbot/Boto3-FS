@@ -1,6 +1,6 @@
 [tool.poetry]
 name        = "boto3_fs"
-version     = "v0.2.0"
+version     = "v0.2.1"
 description = "Boto3-FS"
 authors     = ["Dinis Cruz <dinis.cruz@owasp.org>"]
 license     = "Apache 2.0"
